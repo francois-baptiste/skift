@@ -187,22 +187,22 @@ Fixes: `uniaz <https://github.com/uniaz>`_, `crouffer <https://github.com/crouff
 .. |PyPI-Versions| image:: https://img.shields.io/pypi/pyversions/skift.svg
    :target: https://pypi.python.org/pypi/skift
 
-.. |Build-Status| image:: https://travis-ci.org/shaypal5/skift.svg?branch=master
+.. |Build-Status| image:: https://travis-ci.org/francois-baptiste/skift.svg?branch=master
   :target: https://travis-ci.org/shaypal5/skift
 
-.. |LICENCE| image:: https://github.com/shaypal5/skift/blob/master/mit_license_badge.svg
+.. |LICENCE| image:: https://github.com/francois-baptiste/skift/blob/master/mit_license_badge.svg
   :target: https://github.com/shaypal5/skift/blob/master/LICENSE
   
 .. https://img.shields.io/github/license/shaypal5/skift.svg
 
-.. |Codecov| image:: https://codecov.io/github/shaypal5/skift/coverage.svg?branch=master
+.. |Codecov| image:: https://codecov.io/github/francois-baptiste/skift/coverage.svg?branch=master
    :target: https://codecov.io/github/shaypal5/skift?branch=master
 
 .. |Downloads| image:: https://pepy.tech/badge/skift
      :target: https://pepy.tech/project/skift
      :alt: PePy stats
      
-.. |Codefactor| image:: https://www.codefactor.io/repository/github/shaypal5/skift/badge?style=plastic
+.. |Codefactor| image:: https://www.codefactor.io/repository/github/francois-baptiste/skift/badge?style=plastic
      :target: https://www.codefactor.io/repository/github/shaypal5/skift
      :alt: Codefactor code quality
 
