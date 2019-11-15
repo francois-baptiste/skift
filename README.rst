@@ -188,15 +188,15 @@ Fixes: `uniaz <https://github.com/uniaz>`_, `crouffer <https://github.com/crouff
    :target: https://pypi.python.org/pypi/skift
 
 .. |Build-Status| image:: https://travis-ci.org/francois-baptiste/skift.svg?branch=master
-  :target: https://travis-ci.org/shaypal5/skift
+  :target: https://travis-ci.org/francois-baptiste/skift
 
 .. |LICENCE| image:: https://github.com/francois-baptiste/skift/blob/master/mit_license_badge.svg
-  :target: https://github.com/shaypal5/skift/blob/master/LICENSE
+  :target: https://github.com/francois-baptiste/skift/blob/master/LICENSE
   
 .. https://img.shields.io/github/license/shaypal5/skift.svg
 
 .. |Codecov| image:: https://codecov.io/github/francois-baptiste/skift/coverage.svg?branch=master
-   :target: https://codecov.io/github/shaypal5/skift?branch=master
+   :target: https://codecov.io/github/francois-baptiste/skift?branch=master
 
 .. |Downloads| image:: https://pepy.tech/badge/skift
      :target: https://pepy.tech/project/skift
